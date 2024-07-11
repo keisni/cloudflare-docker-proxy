@@ -11,6 +11,7 @@
 1. click the "Deploy With Workers" button
 2. follow the instructions to fork and deploy
 3. update routes as you requirement
+4. see if it`s ok
 
 [![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/keisni/cloudflare-docker-proxy)
 
